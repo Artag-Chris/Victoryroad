@@ -1,0 +1,28 @@
+.title{
+    color: blue;
+}
+.text{
+    color: rgb(28, 195, 181);
+}
+
+@media (min-width: 576px) { 
+    .claseART{
+        height: 450px !important;
+    }
+ }
+@media (min-width: 320px){
+    .claseART{
+        height: 250px !important;
+    }
+ }
+ @media (min-width: 1024px){
+    .claseART{
+        height: 450px !important;
+    }
+ }
+ @media (min-width: 2560px){
+    .claseART{
+        height: 1024px !important;
+    }
+ }
+ 
